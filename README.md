@@ -1,2 +1,2 @@
 # WebLab
-web technology lap projects 
+web technology lap projects.
